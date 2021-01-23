@@ -1,0 +1,103 @@
+
+
+
+  ############################################################ JAVA #####################################################                          
+
+1.What is Class Loader?How to create custom Class Loader.
+2.Memory Management in Java.
+3.Exception Hirerachy?Custom Exception.
+4.OOPs Concept.
+5.Abstarct vs Interface.
+6.HashMap internal working.
+7.Concurrent Hashmap.
+8.Fail safe and Fail fast iterator.
+9.List iterator and ?
+10.Hashcode and equals.
+11.Comparator and comparable.
+12.compare two list object has different content?
+13.Custom Anotation
+14.Enum.
+15.multiHashMap,LinkedHashMap.
+16.ArrayList and Linkedlist?
+17.serialize derived class but parent class is not serialize.?
+18 Set work internally.?
+19.Generic,wildcard generic,Inheritance Generic.
+20.Wrapper classes,Immutable class create.
+21.final,protected?
+22.linkhashset,linkhashmap,multihashmap.
+23.Design Pattern.
+24.throwable can be used in catch bracket.(throwable Exception).
+25.variable field  cant be override.
+26.minor.gc and major.gc
+27.customisation sorting of employee object in hashmap
+28.while logging server crash how it get it to send another server the same instance
+29. Java8 stream processing find missing element in array
+
+******************************************************************* Multi Threading****************************************************************
+
+1.Thread and runnable.
+2.yield ,join,sleep..
+2.wait is in object clas?.
+3.Synchronize uses.
+4.without run method use in thread.
+5.Deadlock situation.
+6.Thread Scheduler.
+7)Locks vs Thread Performence issue
+
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& HIbernate &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+1.Hibernate Transaction.
+2.which is threadsafe sessionfactory or session.
+3.Inheritance in HIbernate.?
+4.SecondLevel Caching and configuration.? And get updated value everytime.
+5.Mapping in hibernate.
+6.Fetching Strategy in Hibernate.
+7.Join used in Hibernate.
+8.Lazy and eager loading in Hibernate.?
+9.Load and Get 
+10.Cascading,generator,HQL,Criteria.
+11.Confiration,mapping file.
+12.merge and update
+13.state in hibernate.
+14.detach and persist.
+15.Batch size in hibernate and how to configure batch in hibernate.
+16.How to update only single table.
+17)Connection pool setting allow max connection to db
+18)Same entity bean used for mutiple region same table with different columns 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Webservice %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+1.WSDL structure content details.
+2.WSDL type.
+3.JMS present in cache.
+4.JMS configuration detail.
+5.SOA,ESB
+6.soap vs rest.
+7.anotation used foe rest.
+6.
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ Spring Framework ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1.Spring IOC,dependency Injection.
+2.Spring MVC,Flow
+3.Spring Anootation
+4.Autowriring,Scope,Lazyinitialization,
+5.Which design pattern used in Spring.
+6.how one context file to be shared to other context file.
+7.Anontation
+8.What is behaviour of singleton scope in prototype.
+9.Spring AOP 
+10.Spring AOP exception handling aroung advice
+11.Spring oauth2 explanation
+12.JWT without spring secutiy context
+13.How to manage versioning in microservices
+
+
+
+
+
+
+
