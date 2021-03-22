@@ -1,0 +1,178 @@
+6+
+
+How to handle a authentication using rest?
+final,fianlly, finalzed?
+customized exception?
+try with resources?
+extenalization?
+Serialization? How to i dont want some of the records then what should i do?
+Deman thrads? how to create deaman threads?
+Yeild method??
+why wait(), notify(), notifyAll() methods are object class?
+functiona interface? how to create? how to use?
+Optional in how to convert list of objects?
+Streams? sequential stream and parallel stream?
+what all are annotation used persistence?
+
+How to sort list employeees to get below 20 age and get names(based on names)
+List<String> list = Stream().filters(employee -> employee.getAge()>20).Collect(collectors.toList());
+How sort using comparator and comparable using java8?
+
+We have two entities how to get bugstatement using hiberante
+@Entity
+@Table("User")
+public class user(){
+id,name;
+}
+
+@Entity
+@Table("bug")
+@ManyToOne("id")
+public class user(){
+id, userid, bugstatement
+}
+
+A text file contain below snippet how to read and each character i need to print to the next line.
+1/2/3/4
+5#6#7#8#9
+q,a,z,x,c,d,e,r,f,g,h
+i-7-o-l-p
+
+How to handle exceptionhanglers?
+How to get a call one api to another api using restful and how to call third party api?
+How we can findout one of the microservices is down?
+How to provide loggers configuration in microservices?
+how to read a multiple text files
+hot to read index a file using streams
+when we will go parallel stream
+springboot repository
+springboot repository queary
+how to get current month records using hql
+how to handle service goes down one of the microservice
+what all are spring annotation
+why autowire annotation
+If in database some records are deleted how to find the issue.
+Testsuite and test cases
+how Functional interfaces are deriving normal interfaces.
+Hiberanate entity have final class is it correct or not
+singleton class how to serializable
+
+Hackerrank:
+arithmetic sum operations
+regix program
+rectangle, circle program using inheritence
+
+12 factors of microservices?
+About SpringBoot?
+About easyMockito?
+Maven lifecycle?
+We have employee table contain list of department how to get based on deptid get emp list?
+(using stream of stream and flat method)
+what is the use of map in streamAPI?
+how to handle null pointer exception in java8?
+If we are not providing isPresent() in optional what will happen?
+Why linked list is insertion and deletion is faster then arraylist?
+Hash set to add two duplicates id's emp.id not list, what will happen?
+(list wont allow why means it will override equals method and hashcode method)
+BinarySearch program how it will work?
+Print second frequance largest number and remaining should print sor? 
+How to synchronize a method without synchronized keyword 
+
+Managerial round:
+Explain about yourself with educational and career?
+Disadvantages of the microservices?
+Which project is difficult in your career? why?
+storedprocedures
+triggers
+diff sql and nodejs
+JPA
+Singleton class?
+Design patterns?
+OOPS concepts?
+
+Given a string, that contains special character together with alphabets (‘a’ to ‘z’ and ‘A’ to ‘Z’),
+ reverse the string in a way that special characters are not affected.
+Input:   str = "ab,cd$e"
+Output:  str = "ed,cb$a"
+
+List of Strings to findout ASCII values using java8?
+CRUD operations using SpringBoot application?
+Explain about MVC architecture?
+Difference between Put and Patch ?
+How to convert list to map and how to iterate list of string using java8?
+What is loadfactory? how it will work?
+
+int arr[] = {3,5,6,4};
+Need output is 7
+int sum = 0;
+int n = arr.length;
+ 	
+for(int i = 0; i < n; i++){
+
+
+	sum = sum + arr[i];
+	
+	System.out.println(sum);
+}
+
+springboot
+student- repo
+id, name, dept, addr
+H2database
+endpoint
+create
+update
+retrive
+based on name,dept
+
+Array arr[]= {2,3,5,3,2,5,6,7,3,2} find max element using java8?
+
+Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+for (int i : a) {
+    Integer count = map.get(i);
+    map.put(i, count != null ? count+1 : 1);
+}
+Integer popular = Collections.max(map.entrySet(),
+    new Comparator<Map.Entry<Integer, Integer>>() {
+    @Override
+    public int compare(Entry<Integer, Integer> o1, Entry<Integer, Integer> o2) {
+        return o1.getValue().compareTo(o2.getValue());
+    }
+}).getKey();
+
+Write code in your favoruite programming language to print the "Van Eck Sequence" for the first 100 positions.
+
+Sequence is defined as below:
+
+You start with number 0 at the first position.
+For the next number, if you have seen the number at current position before, 
+the next number is the distance between current position 
+and the position where you saw this number before.
+If you haven't seen this number before, print 0.
+So, you start with 0. You haven't seen 0 before, so next number is also 0. 
+But, now the next number is 1 -- 
+because you saw 0 at position 1 and position 2. 
+You haven't seen 1 before, 
+so next number is 0. 
+You saw 0 at position 2 and position 4, 
+so the next number is 2. And so on...
+0, 0, 1, 0, 2, 0, 2, 2, 1, 6, 0, 5, 0, 2, 6, 5, 4, 0, 5, 3, 0, 3, 2, 9, 0, 4, 9, 3, 6, 14, 0, 6, 3, 5, 15, 0,...
+Here's a related video: https://www.youtube.com/watch?v=etMJxB-igrc
+
+
+Difference between PathParam and QuearyParam?
+Difference between TDD and BDD ?
+Abstract class allows final methods or not?
+private constructor allows or not?
+Interface constructor allows or not?
+Exceptions super class have Exception and subclass contain child exceptions are allowed or not?
+Difference between Linkedlist and ArrayList?
+where did you used hashmap in your project what is the purpose?
+Internal implementation on HashMap?
+How it store index in hashmap and why keys are second time repeatedly?
+what is the default server is springboot and how to switch one server to another server?
+How to enable and disable the actuator?
+how many servers support springboot?
+Get is idempotent or not why?
+--->Idempotent means it should be same response.
+SQL Injection?
