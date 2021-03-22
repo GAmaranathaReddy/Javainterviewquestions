@@ -1,0 +1,21 @@
+how to read a multiple text files
+hot to read index a file using streams
+when we will go parallel stream
+springboot repository
+springboot repository queary
+how to get current month records using hql
+how to handle service goes down one of the microservice
+what all are spring annotation
+why autowire annotation
+If in database some records are deleted how to find the issue.
+
+
+
+
+Testsuite and test cases
+how Functional interfaces are deriving normal interfaces.
+Hiberanate entity have final class is it correct or not
+singleton class how to serializable
+
+
+ 
