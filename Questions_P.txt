@@ -1,0 +1,38 @@
+Difference between JRE and JVM?
+
+collections:
+hashcode() and equals() what ane where we need to use give some examples?
+hashcode and equals methods contract?
+how to override hashmap<String, String> methods?
+hashmap<String, Employee> if i adding put("",) how can i add what will happen?
+Difference between list and set interfaces?
+which one will choose which situation if i want to insert 5 records and retrive records 5 to 7 every halfnaver
+then which collection i need to use?
+ 
+explain about overriding and overloading ?
+accessmodifeers override how it will works?
+SOLID principles?
+Inheritence?
+How multiple inheritence will support?
+If two interfaces have same default methods then while calling what will happen?
+
+Volatile keyword?
+Transient keyword?
+At the time of serilization except that also can we use anywhere or not?
+
+outof memory error? how you will handle? 
+dufference between method level synchronized and static synchronized?
+
+streams()?
+functional interfaces and examples?
+
+semaphores?
+code leaning?
+junit how to use configuration?
+
+Difference between transient and detatched?
+WAP integer number is the input value and to retrun a sum value as like below:
+
+99>18>9
+9+9=18
+1+8=9
